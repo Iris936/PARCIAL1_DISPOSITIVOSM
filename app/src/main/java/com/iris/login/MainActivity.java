@@ -90,6 +90,7 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(this, "Inicio de Sesión exitoso!", Toast.LENGTH_SHORT).show();
             intentos = 0;
 
+            //home activity2//
             Intent intent= new Intent(MainActivity.this, MainActivity2.class);
             intent.putExtra("usuario",user);
 
