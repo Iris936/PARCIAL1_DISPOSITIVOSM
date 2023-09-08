@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">LOGIN</string>
+    <string name="app_name">Login2</string>
+    <string name="Logintxt">Login</string>
+    <string name="Usertxt">Usuario</string>
+    <string name="Passtxt">Contraseña</string>
+    <string name="LoginInicio">Iniciar Seccion</string>
+    <string name="TextCheck">Guardar Credenciales</string>
 </resources>
